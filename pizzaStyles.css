@@ -1,0 +1,29 @@
+/* Style for all elements */
+* {
+    background-color: cornflowerblue;
+    color: navy;
+    font-family: Georgia, serif;
+}
+
+/* Style for element with id pageTitle */
+#pageTitle {
+    text-align: center;
+    height: 50px;
+    border: 2px solid chocolate;
+}
+
+
+/* Style for element with class, meat */
+.meat {
+    color: brown;
+}
+
+/* Style for element with class, veggie */
+.veggie {
+    color: green;
+}
+
+/* Style for element with class, cheese */
+.cheese {
+    color: darkorange;
+}
